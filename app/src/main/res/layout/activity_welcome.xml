@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/forestry"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="313dp"
+        android:layout_height="wrap_content"
+        android:text="welcome"
+        android:textAllCaps="true"
+        android:textColor="#fe4aefc6"
+        android:textSize="50sp" />
+
+    <TextView
+        android:layout_width="284dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="96dp"
+        android:text="TEST YOUR KNOWLEDGE IN FORESTRY"
+        android:textColor="#030303"
+        android:textSize="35sp" />
+</LinearLayout>
